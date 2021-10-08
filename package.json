@@ -1,5 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Eric OBrien",
+	"description": "A project to teach more about using npm.",
+	"license": "MIT",
+	"version": "1.2.0",
+	"keywords": [
+		"freecodecamp",
+		"npm"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
